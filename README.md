@@ -18,8 +18,11 @@ pip install mechanize
 
 pip install rich 
 
-git clone https://github.com/Twoaha/2009
+git clone [def]
 
 cd 2009
 
 python Twoaha.py
+
+
+[def]: https://github.com/Twoaha/2009
