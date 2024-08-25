@@ -23,3 +23,4 @@ git clone https://github.com/Twoaha/2009
 cd 2009
 
 python Twoaha.py
+![Screenshot_20221022-082520](https://github.com/user-attachments/assets/0ee12b71-e102-4818-8b66-c14e93a2f926)
