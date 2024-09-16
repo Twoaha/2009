@@ -1,0 +1,18 @@
+{
+    "python.analysis.autoImportCompletions": false,
+    "interactiveWindow.executeWithShiftEnter": true,
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "editor.scrollbar.ignoreHorizontalScrollbarInContentHeight": true,
+    "editor.scrollbar.scrollByPage": true,
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.verticalScrollbarSize": 14000,
+    "editor.smoothScrolling": true,
+    "editor.stablePeek": true,
+    "editor.stickyTabStops": true,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.tabFocusMode": true,
+    "editor.suggest.showStatusBar": true,
+    "editor.suggestFontSize": 888,
+    "files.defaultLanguage": "python",
+    "files.insertFinalNewline": true
+}
